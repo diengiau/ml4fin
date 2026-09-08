@@ -12,7 +12,7 @@ Instructor: Richard Dien Giau Bui
 
 ## Introduction
 
-This is a graduate course taught by Richard Dien Giau Bui at the National Chengchi University. Here is the course description, taken from the syllabus:
+This is a graduate course taught by Richard Dien Giau Bui at the National Chengchi University (NCCU). Here is the course description, taken from the syllabus:
 
 > Introduction to machine learning methods with applications in financial markets, risk management, asset pricing, and empirical finance research. The course emphasizes prediction, model evaluation, economic interpretation, and the reading and replication of influential academic papers.
 
@@ -27,9 +27,11 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 
 ### Slides:
 
-1. Class Introduction: [md](00_intro.qmd)
+1. Class Introduction: [md](00_intro.qmd), [html](https://raw.githack.com/diengiau/ml4fin/main/slides/00_intro.html)
 2. Statistical learning: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch2_Statistical_Learning.pdf), lab
 3. Linear regressions: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch3_Linear_Regression.pdf), lab
+
+
 
 ### Recommended textbook:
 
