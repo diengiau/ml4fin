@@ -34,3 +34,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 ml4fin.Rproj
+
+/.quarto/
