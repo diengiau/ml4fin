@@ -40,10 +40,31 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 
 ### Journal list (to be updated):
 
+**Machine Learning**
 1.  Dong, X., Y. Li, D. E. Rapach, and G. Zhou. 2022. Anomalies and the Expected Market Return. The Journal of Finance 77 (1): 639-681.
 1.  Gu, S., B. Kelly, and D. Xiu. 2020. Empirical Asset Pricing via Machine Learning. The Review of Financial Studies 33 (5): 2223-2273.
-1.  Li, K., F. Mai, R. Shen, and X. Yan. 2020. Measuring Corporate Culture Using Machine Learning. The Review of Financial Studies (hhaa079).
+1. Bao, Y., B. Ke, B. Li, Y. J. Yu, and J. Zhang. 2020. Detecting Accounting Fraud in Publicly Traded U.S. Firms Using a Machine Learning Approach. Journal of Accounting Research 58 (1): 199–235.
 
+
+**Text Analysis**
+1. Engle, R. F., S. Giglio, B. Kelly, H. Lee, and J. Stroebel. 2020. Hedging Climate Change News. The Review of Financial Studies 33 (3): 1184–1216.
+1.  Li, K., F. Mai, R. Shen, and X. Yan. 2020. Measuring Corporate Culture Using Machine Learning. The Review of Financial Studies (hhaa079).
+1. Harrison, J. S., G. R. Thurgood, S. Boivie, and M. D. Pfarrer. 2019. Measuring CEO personality: Developing, validating, and testing a linguistic tool. Strategic Management Journal 40 (8): 1316-1330.
+1. Buehlmaier, M. M. M., and T. M. Whited. 2018. Are Financial Constraints Priced? Evidence from Textual Analysis. The Review of Financial Studies 31 (7): 2693–2728.
+1. Hoberg, G., and C. Lewis. 2017. Do fraudulent firms produce abnormal disclosure? Journal of Corporate Finance 43: 58-85.
+1. Li, F. 2008. Annual report readability, current earnings, and earnings persistence. Journal of Accounting and Economics 45 (2). Economic Consequences of Alternative Accounting Standards and Regulation: 221-247.
+1. Das, S. R., and M. Y. Chen. 2007. Yahoo! for Amazon: Sentiment Extraction from Small Talk on the Web. Management Science 53 (9): 1375-1388.
+
+**LLM**
+1. Ming, J., H. Malloch, and P. J. Westerholm. 2024. Can ChatGPT Replicate Analyst Recommendations? SSRN Scholarly Paper. Rochester, NY: Social Science Research Network.
+1. Brown, A. B., V. X. Wang, and A. Zhou. 2025. Employee Perceptions of Corporate Culture and Management Forecast Accuracy: Evidence from Glassdoor and ChatGPT. Accounting Horizons: 1-20.
+
+
+**Computer Vision**
+1. Cao, S., W. Jiang, J. Wang, and B. Yang. 2024. From Man vs. Machine to Man + Machine: The art and AI of stock analyses. Journal of Financial Economics 160: 103910.
+1. Christensen, T. E., K. E. Fronk, J. A. Lee, and K. K. Nelson. 2024. Data visualization in 10-K filings. Journal of Accounting and Economics 77 (2): 101631.
+1. Jiang, J., B. Kelly, and D. Xiu. 2023. (Re-)Imag(in)ing Price Trends. The Journal of Finance 78 (6): 3193–3249.
+1. Peng, L., S. H. Teoh, Y. Wang, and J. Yan. 2022. Face Value: Trait Impressions, Performance Characteristics, and Market Outcomes for Financial Analysts. Journal of Accounting Research 60 (2): 653–705.
 
 ## FAQ
 
