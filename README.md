@@ -35,8 +35,8 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 
 ### Recommended textbook:
 
-    -   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2021. An introduction to statistical learning: with applications in R New York: Springer. **\[ISLR\]**
-    -   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2023. An introduction to statistical learning: with applications in Python. New York: Springer. **\[ISLP\]**
+-   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2021. An introduction to statistical learning: with applications in R New York: Springer. **\[ISLR\]**
+-   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2023. An introduction to statistical learning: with applications in Python. New York: Springer. **\[ISLP\]**
 
 ### Journal list (to be updated):
 
