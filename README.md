@@ -1,4 +1,4 @@
-# ml4fin Machine Learning for Finance
+# [ml4fin] Machine Learning for Finance
 
 Course No. 351699001
 
@@ -25,9 +25,22 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 
 ## Lectures
 
+### Slides:
+
 1. Class Introduction: [md](00_intro.qmd)
 2. Statistical learning: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch2_Statistical_Learning.pdf), lab
 3. Linear regressions: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch3_Linear_Regression.pdf), lab
+
+### Recommended textbook:
+
+    -   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2021. An introduction to statistical learning: with applications in R New York: Springer. **\[ISLR\]**
+    -   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2023. An introduction to statistical learning: with applications in Python. New York: Springer. **\[ISLP\]**
+
+### Journal list (to be updated):
+
+1.  Dong, X., Y. Li, D. E. Rapach, and G. Zhou. 2022. Anomalies and the Expected Market Return. The Journal of Finance 77 (1): 639-681.
+1.  Gu, S., B. Kelly, and D. Xiu. 2020. Empirical Asset Pricing via Machine Learning. The Review of Financial Studies 33 (5): 2223-2273.
+1.  Li, K., F. Mai, R. Shen, and X. Yan. 2020. Measuring Corporate Culture Using Machine Learning. The Review of Financial Studies (hhaa079).
 
 
 ## FAQ
