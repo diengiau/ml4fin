@@ -56,8 +56,9 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 1. Das, S. R., and M. Y. Chen. 2007. Yahoo! for Amazon: Sentiment Extraction from Small Talk on the Web. Management Science 53 (9): 1375-1388.
 
 **LLM**
-1. Ming, J., H. Malloch, and P. J. Westerholm. 2024. Can ChatGPT Replicate Analyst Recommendations? SSRN Scholarly Paper. Rochester, NY: Social Science Research Network.
 1. Brown, A. B., V. X. Wang, and A. Zhou. 2025. Employee Perceptions of Corporate Culture and Management Forecast Accuracy: Evidence from Glassdoor and ChatGPT. Accounting Horizons: 1-20.
+1. Cheng, Q., P. Lin, and Y. Zhao. 2025. Does generative AI facilitate investor Trading? Early evidence from ChatGPT outages. Journal of Accounting and Economics: 101821.
+1. Ming, J., H. Malloch, and P. J. Westerholm. 2024. Can ChatGPT Replicate Analyst Recommendations? SSRN Scholarly Paper. Rochester, NY: Social Science Research Network.
 
 
 **Computer Vision**
