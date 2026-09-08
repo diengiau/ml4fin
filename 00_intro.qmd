@@ -1,0 +1,187 @@
+---
+title: "Slide 00: Introduction"
+author: "Richard Dien Giau Bui"
+format: 
+    revealjs:
+        embed-resources: true
+editor: visual
+---
+
+## ME
+
+-   **Richard**, Dien Giau Bui (he/him)
+
+-   Email: [diengiau\@nccu.edu.tw](diengiau@nccu.edu.tw)
+
+-   Officer hour: Wednesday afternoon 14:00-16:00, Room: TBA, but please email me to book in advance
+
+-   My website: [official](https://ib.nccu.edu.tw/en/Members/Dien-Giau-Richard-Bui-44674554) and [personal](https://diengiau.github.io)
+
+## The course
+
+-   Mainly for business and finance students
+
+-   Basic, but with practical applications
+
+-   We also learn some recent top publications in finance with AI/ML applications
+
+## Materials
+
+- Textbooks: mainly ISLP
+
+##   Recommended textbook:
+
+- James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2023. An introduction to statistical learning: with applications in Python. New York: Springer. **\[ISLP\]**
+- James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2021. An introduction to statistical learning: with applications in R (2nd edition). New York: Springer. **\[ISLR\]**
+
+##   My lecture slides + codes + data
+
+- I will put everything into a public github: <https://github.com/diengiau/ml4fin>
+
+
+
+
+## Teaching approach
+
+-   30% lecture
+-   30% discussion
+-   40% group activity
+
+## Group
+
+-   In long term, we often work in team
+-   Max: 3 people
+-   Min: 1 person (ask me first)
+
+## Scoring policy
+
+-   Midterm exam (individual): 30%
+
+-   Problem sets (individual/or group, will announced each time): 30%
+
+-   Paper presentation: 40%
+    - Each group choose one paper in the journal list to present
+
+
+##   Journal list (to be updated):
+
+1.  Dong, X., Y. Li, D. E. Rapach, and G. Zhou. 2022. Anomalies and the Expected Market Return. The Journal of Finance 77 (1): 639-681.
+1.  Gu, S., B. Kelly, and D. Xiu. 2020. Empirical Asset Pricing via Machine Learning. The Review of Financial Studies 33 (5): 2223-2273.
+1.  Li, K., F. Mai, R. Shen, and X. Yan. 2020. Measuring Corporate Culture Using Machine Learning. The Review of Financial Studies (hhaa079).
+
+## Dong et al. (2022-JF)
+
+- Time series data
+- Predict market stock returns
+    - Y: dependent/target variables
+    - X: anomalies
+- We will read the paper, understand it, then learn how they code that
+
+
+## Gu et al. (2020-RFS)
+
+- Cross-sectional data
+- Predict cross-sectional stock returns
+    - Y: dependent/target variables
+    - X: firm characteristics
+- I will show you how to prepare the data + toy models to replicate their paper
+
+## Li et al. (2020-RFS)
+
+- Text data
+- They use text to measure the corporate culture
+    - Bag-of-word vs. word-embedded
+- Toy examples to understand these two methods
+
+## Final project
+
+-   A story-telling report
+-   Data- and code-embedded and self-contained report
+-   You can choose any format to present your report: a pdf, a slide, a dashboard, or a published website!
+-   You also need to present your story to me in final weeks (expected around Week 15-16)
+
+## My expectation/rule
+
+-   Please don't ask for extra points at the semester end.
+
+-   It is difficult but useful and can pass-able if you tried hard in class
+
+-   Please email me before visiting office hour. I will confirm in advance.
+
+## Schedule this semester
+
+-   Midterm: on Week 8
+-   Presentation: 
+-   We will have one missing/make up class:
+    -   No class on week of Dec 7-8 (I'll go to a conference)
+    -   Make up class: we will decide near that week
+
+## Required software
+
+-   Python programming
+
+    -   is not only a statistical programming language
+    -   but also for general purpose
+    -   very popular in statistics, science, and ML projects
+
+-   IDE: an interface for easier using Python, we have several choice
+    - Online: Google Colab
+    - Offline: VSCode, RStudio, Jupyter
+
+## To install Python
+
+{{< video https://youtu.be/RelOJOIKaTk?si=imdU-9ylZabJmgQ8 >}}
+
+
+## Google Colab
+
+- Use Google's [Colab](https://colab.research.google.com/) platform
+    - Link to your Google account
+
+- Installed a lot of common-used Python packages, so can save you tons of time
+
+
+## A kick-off question
+
+-   Why data, coding, and machine learning (ML) for biz students?
+
+
+## Why data and coding for biz students?
+
+-   Data is now the primary input for business decisions:
+
+-   Higher expectation on data literacy from employers
+
+-   It is a competitive differentiator between two otherwise similar candidates in hiring and promotion
+
+-   It sharpens judgement and critical thinking
+
+## Why learn fundamental ML when we have AI?
+
+Any idea?
+
+## A quote
+
+> "In God we trust; all others must bring data." (W. Edwards Deming)
+
+## Data literacy = new (English) language skill?
+
+-   Yes
+
+    -   Confirmed by hiring posts
+
+    -   Teamwork with other tech teams
+
+    -   Increasing rate of returns (income - cost)
+
+-   Data literacy has many levels
+
+    -   Basic/baseline: reading/making dashboards, basic SQL/Excel/R/Python, interpreting the model (regression/classification) outputs
+
+    -   Data science/ML expertise
+
+-   Combining your field expertise + data science skill to make you different
+
+## Any question?
+
+- If you have difficulty installing Python in local computer, please find me at the end of class
