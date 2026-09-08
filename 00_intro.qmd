@@ -60,7 +60,7 @@ editor: visual
 -   Problem sets (individual/or group, will announced each time): 30%
 
 -   Paper presentation: 40%
-    - Each group choose one paper in the journal list to present
+    - Each group choose 1-2 papers in the journal list to present
 
 
 ##   Journal list (to be updated):
@@ -159,6 +159,14 @@ editor: visual
 ## Why learn fundamental ML when we have AI?
 
 Any idea?
+
+## For research potential
+
+- A very hot field and more opportunities to publish papers
+- Many publications in top journals and top conferences in recent years
+    - Finance: JF, JFE, RFS, JFQA, MS
+    - Accounting: JAE, JAR, TAR, CAR, RAS
+    - Conferences: AFA/AEA, WFA, EFA
 
 ## A quote
 
