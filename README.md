@@ -28,15 +28,15 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 ### Slides:
 
 1. Class Introduction: [md](00_intro.qmd), [html](https://raw.githack.com/diengiau/ml4fin/main/slides/00_intro.html)
-2. Statistical learning: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch2_Statistical_Learning.pdf), lab
-3. Linear regressions: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch3_Linear_Regression.pdf), lab
-
+2. Statistical learning: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch2_Statistical_Learning.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch02-statlearn-lab.ipynb)
+3. Linear regressions: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch3_Linear_Regression.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch03-linreg-lab.ipynb)
+4. Classification: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch4_Classification.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch04-classification-lab.ipynb)
 
 
 ### Recommended textbook:
 
--   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2021. An introduction to statistical learning: with applications in R New York: Springer. **\[ISLR\]**
 -   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2023. An introduction to statistical learning: with applications in Python. New York: Springer. **\[ISLP\]**
+-   James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani, 2021. An introduction to statistical learning: with applications in R New York: Springer. **\[ISLR\]**
 
 ### Journal list (to be updated):
 
