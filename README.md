@@ -44,6 +44,21 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 1.  Dong, X., Y. Li, D. E. Rapach, and G. Zhou. 2022. Anomalies and the Expected Market Return. The Journal of Finance 77 (1): 639-681.
 1.  Gu, S., B. Kelly, and D. Xiu. 2020. Empirical Asset Pricing via Machine Learning. The Review of Financial Studies 33 (5): 2223-2273.
 1. Bao, Y., B. Ke, B. Li, Y. J. Yu, and J. Zhang. 2020. Detecting Accounting Fraud in Publicly Traded U.S. Firms Using a Machine Learning Approach. Journal of Accounting Research 58 (1): 199–235.
+1. Leippold, M., Wang, Q. and Zhou, W., 2022. Machine learning in the Chinese stock market. *Journal of financial economics*, *145*(2), pp.64-82.
+
+1. Bianchi, D., Büchner, M. and Tamoni, A., 2021. Bond risk premiums with machine learning. *The Review of Financial Studies*, *34*(2), pp.1046-1089.
+
+1. Bell, S., Kakhbod, A., Lettau, M. and Nazemi, A., 2026. Glass box machine learning and corporate bond returns. *Journal of Financial Economics*, *181*, p.104294.
+
+1. Bali, T.G., Beckmeyer, H., Moerke, M. and Weigert, F., 2023. Option return predictability with machine learning and big data. *The Review of Financial Studies*, *36*(9), pp.3548-3602.
+
+1. Avramov, D., Cheng, S. and Metzker, L., 2023. Machine learning vs. economic restrictions: Evidence from stock return predictability. *Management Science*, *69*(5), pp.2587-2619.
+
+1. Chen, X., Cho, Y.H., Dou, Y. and Lev, B., 2022. Predicting future earnings changes using machine learning and detailed financial data. *Journal of Accounting Research*, *60*(2), pp.467-515.
+
+1. Kaniel, R., Lin, Z., Pelger, M. and Van Nieuwerburgh, S., 2023. Machine-learning the skill of mutual fund managers. *Journal of Financial Economics*, *150*(1), pp.94-138.
+
+1. DeMiguel, V., Gil-Bazo, J., Nogales, F.J. and Santos, A.A., 2023. Machine learning and fund characteristics help to select mutual funds with positive alpha. *Journal of Financial Economics*, *150*(3), p.103737.
 
 
 **Text Analysis**
