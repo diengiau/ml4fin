@@ -40,6 +40,8 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 
 ### Journal list (to be updated):
 
+Please see the Group and Selected Papers at [HERE](https://docs.google.com/spreadsheets/d/15btxXiajbYeaKRszoHKDpL2PJjJOveRBV63kjh61TpI/edit?usp=sharing).
+
 **Machine Learning**
 1.  Dong, X., Y. Li, D. E. Rapach, and G. Zhou. 2022. Anomalies and the Expected Market Return. The Journal of Finance 77 (1): 639-681.
 1.  Gu, S., B. Kelly, and D. Xiu. 2020. Empirical Asset Pricing via Machine Learning. The Review of Financial Studies 33 (5): 2223-2273.
