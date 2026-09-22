@@ -78,6 +78,9 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 1. Peng, L., S. H. Teoh, Y. Wang, and J. Yan. 2022. Face Value: Trait Impressions, Performance Characteristics, and Market Outcomes for Financial Analysts. Journal of Accounting Research 60 (2): 653–705.
 1. Obaid, K. and Pukthuanthong, K., 2022. A picture is worth a thousand words: Measuring investor sentiment by combining machine learning and photos from news. Journal of Financial Economics, 144(1), pp.273-297.
 
+**Others**
+1. Gofman, M. and Jin, Z., 2024. Artificial intelligence, education, and entrepreneurship. The Journal of Finance, 79(1), pp.631-667.
+
 ## FAQ
 
 TBA.
