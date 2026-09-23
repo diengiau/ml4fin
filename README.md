@@ -54,7 +54,9 @@ Please see the Group and Selected Papers at [HERE](https://docs.google.com/sprea
 1. Chen, X., Cho, Y.H., Dou, Y. and Lev, B., 2022. Predicting future earnings changes using machine learning and detailed financial data. *Journal of Accounting Research*, *60*(2), pp.467-515.
 1. Kaniel, R., Lin, Z., Pelger, M. and Van Nieuwerburgh, S., 2023. Machine-learning the skill of mutual fund managers. *Journal of Financial Economics*, *150*(1), pp.94-138.
 1. DeMiguel, V., Gil-Bazo, J., Nogales, F.J. and Santos, A.A., 2023. Machine learning and fund characteristics help to select mutual funds with positive alpha. *Journal of Financial Economics*, *150*(3), p.103737.
-
+1. Geertsema, P. and Lu, H., 2023. Relative valuation with machine learning. *Journal of Accounting Research*, *61*(1), pp.329-376.
+1. **P1.** Van Binsbergen, J.H., Han, X. and Lopez-Lira, A., 2023. Man versus machine learning: The term structure of earnings expectations and conditional biases. *The Review of financial studies*, *36*(6), pp.2361-2396. + **P2.** Zhang, Y., Zhu, Y. and Linnainmaa, J.T., 2025. Man versus machine learning revisited. *The Review of Financial Studies*, *38*(12), pp.3768-3790.
+1. Campbell, J.L., Ham, H., Lu, Z. and Wood, K., 2026. Expectations matter: When (not) to use machine learning earnings forecasts. *Management Science*.
 
 **Text Analysis**
 1. Engle, R. F., S. Giglio, B. Kelly, H. Lee, and J. Stroebel. 2020. Hedging Climate Change News. The Review of Financial Studies 33 (3): 1184–1216.
@@ -67,6 +69,7 @@ Please see the Group and Selected Papers at [HERE](https://docs.google.com/sprea
 1. Florackis, C., Louca, C., Michaely, R. and Weber, M., 2023. Cybersecurity risk. *The Review of Financial Studies*, *36*(1), pp.351-407.
 1. Bybee, L., Kelly, B. and Su, Y., 2023. Narrative asset pricing: Interpretable systematic risk factors from news text. *The Review of Financial Studies*, *36*(12), pp.4759-4787.
 1. Zeng, S. and Zhou, K., 2026. Textual Analysis by Hedge Funds. Journal of Accounting Research.
+1. Guenther, D.A., Peterson, K., Searcy, J. and Williams, B.M., 2023. How useful are tax disclosures in predicting effective tax rates? A machine learning approach. The Accounting Review, 98(5), pp.297-322.
 
 **LLM**
 1. Brown, A. B., V. X. Wang, and A. Zhou. 2025. Employee Perceptions of Corporate Culture and Management Forecast Accuracy: Evidence from Glassdoor and ChatGPT. Accounting Horizons: 1-20.
@@ -80,7 +83,7 @@ Please see the Group and Selected Papers at [HERE](https://docs.google.com/sprea
 1. Choi, J.H. and Xie, C.L., 2026. Human+ AI in accounting: Early evidence from the field. *Journal of Accounting Research*, *64*(3), pp.1333-1373.
 1. Cao, S.S., Chen, W.X., Ma, G. and Srinivasan, S., 2026. Generative AI in capital markets: Information production, dissemination, and processing. *Journal of Accounting Research*, *64*(3), pp.1427-1450.
 1. Shanthikumar, D. and Yoo, I.S., 2026. Beyond Automation: AI and the Human Value of Sell‐Side Analysts. *Journal of Accounting Research*.
-
+1. Sheng, J., Sun, Z., Yang, B. and Zhang, A.L., 2026. Generative AI and asset management. The Review of Financial Studies, p.hhag050.
 
 **Computer Vision**
 1. Cao, S., W. Jiang, J. Wang, and B. Yang. 2024. From Man vs. Machine to Man + Machine: The art and AI of stock analyses. Journal of Financial Economics 160: 103910.
@@ -93,6 +96,8 @@ Please see the Group and Selected Papers at [HERE](https://docs.google.com/sprea
 
 **Others**
 1. Gofman, M. and Jin, Z., 2024. Artificial intelligence, education, and entrepreneurship. The Journal of Finance, 79(1), pp.631-667.
+1. Fedyk, A., Kakhbod, A., Li, P. and Malmendier, U., 2026. Ai and perception biases in investments: An experimental study. *Journal of Financial Economics*, *185*, p.104350.
+1. Wang, H., Zhang, Y. and Lu, T., 2026. The power of disagreement: A field experiment to investigate human–algorithm collaboration in loan evaluations. *Management Science*, *72*(1), pp.96-118.
 
 ## FAQ
 
