@@ -66,12 +66,21 @@ Please see the Group and Selected Papers at [HERE](https://docs.google.com/sprea
 1. Das, S. R., and M. Y. Chen. 2007. Yahoo! for Amazon: Sentiment Extraction from Small Talk on the Web. Management Science 53 (9): 1375-1388.
 1. Florackis, C., Louca, C., Michaely, R. and Weber, M., 2023. Cybersecurity risk. *The Review of Financial Studies*, *36*(1), pp.351-407.
 1. Bybee, L., Kelly, B. and Su, Y., 2023. Narrative asset pricing: Interpretable systematic risk factors from news text. *The Review of Financial Studies*, *36*(12), pp.4759-4787.
+1. Zeng, S. and Zhou, K., 2026. Textual Analysis by Hedge Funds. Journal of Accounting Research.
 
 **LLM**
 1. Brown, A. B., V. X. Wang, and A. Zhou. 2025. Employee Perceptions of Corporate Culture and Management Forecast Accuracy: Evidence from Glassdoor and ChatGPT. Accounting Horizons: 1-20.
 1. Cheng, Q., P. Lin, and Y. Zhao. 2025. Does generative AI facilitate investor Trading? Early evidence from ChatGPT outages. Journal of Accounting and Economics: 101821.
 1. Ming, J., H. Malloch, and P. J. Westerholm. 2024. Can ChatGPT Replicate Analyst Recommendations? SSRN Scholarly Paper. Rochester, NY: Social Science Research Network.
 1. Lopez-Lira, A. and Tang, Y., 2026. Can chatgpt forecast stock price movements? return predictability and large language models. Journal of Financial Economics, 184, p.104335.
+1. Cheng, Q., Lin, P. and Zhao, Y., 2025. Does generative AI facilitate investor trading? Early evidence from ChatGPT outages. *Journal of Accounting and Economics*, p.101821.
+1. Bradshaw, M.T., Ma, C., Yost, B.P. and Zou, Y., 2026. Generative AI use by capital market information intermediaries: Evidence from Seeking Alpha. *Journal of Accounting Research*, *64*(3), pp.1233-1286.
+1. Blankespoor, E., Dehaan, E. and Li, Q., 2026. Generative AI in financial reporting. *Journal of Accounting Research*, *64*(3), pp.1189-1232.
+1. Blankespoor, E., Croom, J. and Grant, S.M., 2026. Generative AI and investor processing of financial information. *Journal of Accounting and Economics*, p.101908.
+1. Choi, J.H. and Xie, C.L., 2026. Human+ AI in accounting: Early evidence from the field. *Journal of Accounting Research*, *64*(3), pp.1333-1373.
+1. Cao, S.S., Chen, W.X., Ma, G. and Srinivasan, S., 2026. Generative AI in capital markets: Information production, dissemination, and processing. *Journal of Accounting Research*, *64*(3), pp.1427-1450.
+1. Shanthikumar, D. and Yoo, I.S., 2026. Beyond Automation: AI and the Human Value of Sell‐Side Analysts. *Journal of Accounting Research*.
+
 
 **Computer Vision**
 1. Cao, S., W. Jiang, J. Wang, and B. Yang. 2024. From Man vs. Machine to Man + Machine: The art and AI of stock analyses. Journal of Financial Economics 160: 103910.
@@ -79,6 +88,8 @@ Please see the Group and Selected Papers at [HERE](https://docs.google.com/sprea
 1. Jiang, J., B. Kelly, and D. Xiu. 2023. (Re-)Imag(in)ing Price Trends. The Journal of Finance 78 (6): 3193–3249.
 1. Peng, L., S. H. Teoh, Y. Wang, and J. Yan. 2022. Face Value: Trait Impressions, Performance Characteristics, and Market Outcomes for Financial Analysts. Journal of Accounting Research 60 (2): 653–705.
 1. Obaid, K. and Pukthuanthong, K., 2022. A picture is worth a thousand words: Measuring investor sentiment by combining machine learning and photos from news. Journal of Financial Economics, 144(1), pp.273-297.
+1. Fronk, K.E., 2026. The Influence of Data Visualizations on Investor Information Processing: Evidence from Earnings Conference Call Slideshows. *The Accounting Review*, pp.1-31.
+1. Xu, D., 2026. Earnings call slide deck. *Management Science*, *72*(7), pp.6146-6179.
 
 **Others**
 1. Gofman, M. and Jin, Z., 2024. Artificial intelligence, education, and entrepreneurship. The Journal of Finance, 79(1), pp.631-667.
