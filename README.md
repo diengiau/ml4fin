@@ -30,6 +30,10 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 1. Class Introduction: [md](00_intro.qmd), [html](https://raw.githack.com/diengiau/ml4fin/main/slides/00_intro.html)
 2. Statistical learning: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch2_Statistical_Learning.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch02-statlearn-lab.ipynb)
 3. Linear regressions: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch3_Linear_Regression.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch03-linreg-lab.ipynb)
+
+**Coding practices**: [Beta, IVOL, and Regression Forecast](https://colab.research.google.com/drive/1YLaK1IPQfD-HHDoHxAHCaxU-rjIMNQCz?usp=sharing)
+
+
 4. Classification: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch4_Classification.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch04-classification-lab.ipynb)
 
 
@@ -99,9 +103,7 @@ Please see the Group and Selected Papers at [HERE](https://docs.google.com/sprea
 1. Fedyk, A., Kakhbod, A., Li, P. and Malmendier, U., 2026. Ai and perception biases in investments: An experimental study. *Journal of Financial Economics*, *185*, p.104350.
 1. Wang, H., Zhang, Y. and Lu, T., 2026. The power of disagreement: A field experiment to investigate human–algorithm collaboration in loan evaluations. *Management Science*, *72*(1), pp.96-118.
 
-## Coding practices
 
-1. [Beta, IVOL, and Regression Forecast](https://colab.research.google.com/drive/1YLaK1IPQfD-HHDoHxAHCaxU-rjIMNQCz?usp=sharing)
 
 
 ## FAQ
