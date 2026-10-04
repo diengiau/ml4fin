@@ -99,6 +99,11 @@ Please see the Group and Selected Papers at [HERE](https://docs.google.com/sprea
 1. Fedyk, A., Kakhbod, A., Li, P. and Malmendier, U., 2026. Ai and perception biases in investments: An experimental study. *Journal of Financial Economics*, *185*, p.104350.
 1. Wang, H., Zhang, Y. and Lu, T., 2026. The power of disagreement: A field experiment to investigate human–algorithm collaboration in loan evaluations. *Management Science*, *72*(1), pp.96-118.
 
+## Coding practices
+
+1. [Beta, IVOL, and Regression Forecast](https://colab.research.google.com/drive/1YLaK1IPQfD-HHDoHxAHCaxU-rjIMNQCz?usp=sharing)
+
+
 ## FAQ
 
 TBA.
