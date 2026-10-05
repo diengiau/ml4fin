@@ -31,7 +31,7 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 2. Statistical learning: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch2_Statistical_Learning.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch02-statlearn-lab.ipynb)
 3. Linear regressions: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch3_Linear_Regression.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch03-linreg-lab.ipynb)
 
-**Coding practices**: [Beta, IVOL, and Regression Forecast](https://colab.research.google.com/drive/1YLaK1IPQfD-HHDoHxAHCaxU-rjIMNQCz?usp=sharing)
+**Coding practices**: [Beta, IVOL, and Regression Forecast](https://colab.research.google.com/drive/1YLaK1IPQfD-HHDoHxAHCaxU-rjIMNQCz?usp=sharing), [data to use](https://www.dropbox.com/scl/fo/ognybotrh64klyxza7g58/AF3rsKJ096O-A__mf8ihTqw?rlkey=ts36wpz90b194375je5nt5g0g&st=wsfmo7gf&dl=0)
 
 
 4. Classification: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch4_Classification.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch04-classification-lab.ipynb)
