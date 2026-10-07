@@ -35,6 +35,7 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 
 
 4. Classification: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch4_Classification.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch04-classification-lab.ipynb)
+5. Model Selection & Regularization: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch6_Model_Selection.pdf), [python lab (TBA)]()
 
 
 ### Recommended textbook:
