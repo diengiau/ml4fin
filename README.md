@@ -36,7 +36,7 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 
 4. Classification: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch4_Classification.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch04-classification-lab.ipynb). *Note*: it is easier go through the slide one time, and then read again from slide 71.
 5. Model Selection & Regularization: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch6_Model_Selection.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.1/Ch06-varselect-lab.ipynb)
-6. Trees
+6. Trees: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch8_Tree_Based_Methods.pdf)
 7. Extension: Text data
 8. Neural network (NN)
 
