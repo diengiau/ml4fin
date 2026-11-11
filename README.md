@@ -31,11 +31,15 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 2. Statistical learning: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch2_Statistical_Learning.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch02-statlearn-lab.ipynb)
 3. Linear regressions: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch3_Linear_Regression.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch03-linreg-lab.ipynb)
 
-**Coding practices**: [Beta, IVOL, and Regression Forecast](https://colab.research.google.com/drive/1YLaK1IPQfD-HHDoHxAHCaxU-rjIMNQCz?usp=sharing), [data to use](https://www.dropbox.com/scl/fo/ognybotrh64klyxza7g58/AF3rsKJ096O-A__mf8ihTqw?rlkey=ts36wpz90b194375je5nt5g0g&st=wsfmo7gf&dl=0)
+**Coding Practice 1**: [Beta, IVOL, and Regression Forecast](https://colab.research.google.com/drive/1YLaK1IPQfD-HHDoHxAHCaxU-rjIMNQCz?usp=sharing), [data to use](https://www.dropbox.com/scl/fo/ognybotrh64klyxza7g58/AF3rsKJ096O-A__mf8ihTqw?rlkey=ts36wpz90b194375je5nt5g0g&st=wsfmo7gf&dl=0)
 
 
 4. Classification: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch4_Classification.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2/Ch04-classification-lab.ipynb). *Note*: it is easier go through the slide one time, and then read again from slide 71.
+
 5. Model Selection & Regularization: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch6_Model_Selection.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.1/Ch06-varselect-lab.ipynb)
+
+**Code Practice 2**: Use firm characteristics to predict the stock returns. This below lab notebook will show you how to construct the data.
+
 6. Trees: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch8_Tree_Based_Methods.pdf)
 7. Extension: Text data
 8. Neural network (NN)
