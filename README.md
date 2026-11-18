@@ -38,11 +38,11 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 
 5. Model Selection & Regularization: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch6_Model_Selection.pdf), [python lab](https://colab.research.google.com/github/intro-stat-learning/ISLP_labs/blob/v2.2.1/Ch06-varselect-lab.ipynb)
 
-**Code Practice 2**: Use firm characteristics to predict the stock returns. This below lab notebook will show you how to construct the data.
+**Code Practice 2**: Use firm characteristics to predict the stock returns. This [lab notebook](https://colab.research.google.com/drive/1t6TgwiziyIixHDfh7RKllEVzOgxgHv6f?usp=sharing) will show you how to construct the data.
 
 6. Trees: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch8_Tree_Based_Methods.pdf)
-7. Extension: Text data
-8. Neural network (NN)
+7. Neural network (NN)
+8. Extension: Text data
 
 ### Recommended textbook:
 
