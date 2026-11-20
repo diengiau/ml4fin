@@ -41,6 +41,9 @@ Please read the full description at [Syllabus website](https://newdoc.nccu.edu.t
 **Code Practice 2**: Use firm characteristics to predict the stock returns. This [lab notebook](https://colab.research.google.com/drive/1t6TgwiziyIixHDfh7RKllEVzOgxgHv6f?usp=sharing) will show you how to construct the data.
 
 6. Trees: [pdf](https://raw.githack.com/diengiau/ml4fin/main/slides/Ch8_Tree_Based_Methods.pdf)
+
+[Games](https://claude.ai/artifact/KXmvSvUhbf45NgiMTjWBCe#slide-ce2bbd3390be), [Interactive Traing](https://claude.ai/artifact/CDgGDD92Spn3177wiMYL5w)
+
 7. Neural network (NN)
 8. Extension: Text data
 
